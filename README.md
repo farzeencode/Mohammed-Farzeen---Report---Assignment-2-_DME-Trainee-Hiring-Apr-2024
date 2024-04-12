@@ -3,5 +3,6 @@ This contains the Assignment -2 with  python code , output json file and output 
 
 Spider name>>>>> bayut_spider
 
-to run >>>>>>>>>
-Mohammed_Farzeen_Report_Assignment_2_DME Trainee_Hiring_Apr_2024\assignment2\assignment2\spiders\scrapy crawl bayut_spider
+to run>>>>>>>>>>>>>>>>>>>>
+
+scrapy crawl bayut_spider
