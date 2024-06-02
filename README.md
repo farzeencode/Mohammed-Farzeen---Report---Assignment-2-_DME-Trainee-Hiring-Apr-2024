@@ -1,4 +1,10 @@
 # Used to Scrap the Real Estate website
+
+I created a web scraper using Scrapy to collect real estate data from Bayut.com for rental properties in Dubai. The scraper navigates through property listings, extracting key information such as property ID, purpose, type, added date, furnishing status, price, location, size, agent name, and amenities. It also follows pagination to gather comprehensive data. The extracted data is saved in both JSON and CSV formats. This project has significantly improved my expertise in web scraping, data parsing, and handling large datasets in Python.
+
+
+
+
 This contains  python code , output json file and output csv file
 
 Spider name>>>>> bayut_spider
